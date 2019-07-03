@@ -4,6 +4,7 @@
   "private": true,
   "homepage": "http://osmanov.github.io/react-gh-pages",
   "dependencies": {
+    "d3": "^5.9.7",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.1"
